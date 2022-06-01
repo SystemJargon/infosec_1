@@ -9,9 +9,9 @@ The Common Vulnerabilities and Exposures (CVE) system provides a reference-metho
 
 ### Useful CVE Websites:
 
-https://cve.mitre.org/
+[https://cve.mitre.org/](https://cve.mitre.org/)
 
-https://www.nist.gov/
+[https://www.nist.gov/](https://www.nist.gov/)
 
 ----
 

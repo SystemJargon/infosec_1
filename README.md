@@ -14,6 +14,6 @@ Documenting recent threats with mitigations/fixes/patch notes for the Windows Sy
 
 ### Recent CVE Examples:
 
-Follina - CVE-2022-30190
+[Follina - CVE-2022-30190](CVE-2022-30190)
 
-Print Nightmare - CVE-2021-34527
+[Print Nightmare - CVE-2021-34527](CVE-2022-30190)

@@ -1,4 +1,4 @@
-### Microsoft protocol nightmare
+### Microsoft protocol nightmare?
 
 As mentioned here in this link (and elsewhere),
 https://www.bleepingcomputer.com/news/security/new-windows-search-zero-day-added-to-microsoft-protocol-nightmare/
@@ -16,7 +16,7 @@ search-ms:query=proc&crumb=location:%5C%5Clive.sysinternals.com&displayname=Sear
 With the registry key in place, we could not execute ```search-ms:``` via start search. search-ms is natively not recognized also in the likes of the Command Line nor Powershell (including Powershell ISE).
 
 
-### Registry Entry (added to disable Cortana already prior).
+### Registry Entry (added to disable Cortana prior to this).
 
 ```
 Windows Registry Editor Version 5.00

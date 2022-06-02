@@ -31,6 +31,17 @@ Windows Registry Editor Version 5.00
 "AllowCortana"=dword:00000000
 ```
 
+Some report this may not work, which is possibly due to Windows 11 or Windows 10 versions.
+Instead try this with some luck. 
+
+Regsitry Edit, 
+
+HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer
+
+DWORD: ```DisableSearchBoxSuggestions```
+
+Value: ```1```
+
 ----
 
 Sometime back before this 0day was even noted, my clients had all cortana, websearch, bing, telemetry and the likes; all either at a state of what we could say was 'none/disabled' (do not use it) or minimal, if the latter and absolutely required in certain enterprise's.

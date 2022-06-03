@@ -1,6 +1,4 @@
 
-Documenting recent threats with mitigations/fixes/patch notes for the Windows SysAdmin. These threats may include bugs/exploits/0Day's/CVE's.
-
 
 ### Useful CVE Websites:
 

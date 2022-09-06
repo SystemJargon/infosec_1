@@ -1,0 +1,5 @@
+# Result Indicator
+True positive (TP)
+False negative (FN)
+True negative (TN) 
+False positive (FP)

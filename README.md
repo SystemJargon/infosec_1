@@ -10,7 +10,7 @@
 
 ----
 
-### Mid 2022 CVE Examples:
+### Some 2021 and 2022 CVE Examples:
 
 [Follina - CVE-2022-30190](CVE-2022-30190)
 
